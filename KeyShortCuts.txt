@@ -1,0 +1,15 @@
+﻿
+ctrl + l   = delete entire line of code
+
+ctrl + alt + l = solution explorer
+
+ctrl + tab = pops up a window that lets you select differnt open files in your solution
+
+Collapse current - CTRL+M, CTRL+S
+Collapse All - CTRL+M, CTRL+A
+Expand current - CTRL+M, CTRL+E
+Expand All - CTRL+M, CTRL+X
+
+
+ctrl + k, i     -- display function tooltip
+ctrl + j     -- list members
